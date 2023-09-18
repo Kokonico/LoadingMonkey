@@ -1,1 +1,1 @@
-from LoadingMonkey import monk.Monkey
+from LoadingMonkey.monk import Monkey
