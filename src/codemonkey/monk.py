@@ -2,7 +2,7 @@ import time as t
 
 # message, you can set this to whatever
 
-def Monkey(msg: str, range: int):
+def Monkey(msg: str, urange: int = 1):
 
   monkey1 = """
             __
@@ -25,7 +25,7 @@ def Monkey(msg: str, range: int):
             m m
              """
   monkey = 1
-  for x in range(range):
+  for x in range(urange):
       for i in range(200):
         print()
       print(msg)
