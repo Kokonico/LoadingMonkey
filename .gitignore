@@ -1,0 +1,9 @@
+main.py
+poetry.lock
+**.DS_Store
+**.log
+**.pycache
+**.nix
+**.replit
+**.upm
+**__pycache__
