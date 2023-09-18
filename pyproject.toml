@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "LoadingMonkey"
 version = "1.0.0"
-description = "README.md"
+description = ""
 authors = ["Kokonico <kokonico@duck.com>"]
 
 packages = [
