@@ -3,3 +3,10 @@
 <br>
 
 code monkey is a little python package i made to have a little monkey in your terminal at all times. inspired by johnathan coulton.
+
+# USAGE:
+```python
+import codemonkey
+
+codemonkey.Monkey("optional message", "repeat amount")
+```
