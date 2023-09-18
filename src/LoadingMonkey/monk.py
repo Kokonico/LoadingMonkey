@@ -25,7 +25,7 @@ def Monkey(msg: str, urange: int = 1):
             m m
              """
   monkey = 1
-  for x in range(urange):
+  for x in range(urange * 2):
       for i in range(200):
         print()
       print(msg)

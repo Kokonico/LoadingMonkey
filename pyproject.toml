@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "LoadingMonkey"
 version = "1.0.0"
-description = "code monkey get up get coffee, code monkey go to job."
+description = "README.md"
 authors = ["Kokonico <kokonico@duck.com>"]
 
 packages = [
-    { include = "loadingmonkey", from = "src" }
+    { include = "LoadingMonkey", from = "src" }
 ]
 
 [tool.poetry.dependencies]
