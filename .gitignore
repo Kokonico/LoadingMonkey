@@ -8,3 +8,4 @@ poetry.lock
 **.upm
 **__pycache__
 **.breakpoints
+**.pythonlibs
