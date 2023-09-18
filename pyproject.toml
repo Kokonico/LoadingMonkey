@@ -4,6 +4,10 @@ version = "1.0.0"
 description = "code monkey get up get coffee, code monkey go to job."
 authors = ["Kokonico <kokonico@duck.com>"]
 
+packages = [
+    { include = "loadingmonkey", from = "src" }
+]
+
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.11"
 
