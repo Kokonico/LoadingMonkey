@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "CodeBuddy"
+name = "LoadingMonkey"
 version = "1.0.0"
 description = "code monkey get up get coffee, code monkey go to job."
 authors = ["Kokonico <kokonico@duck.com>"]
